@@ -17,7 +17,7 @@ I'm **Linghan Zhong**, an undergrad at USC studing CS and Mathematics. Currently
 
 ## Other Projects
 
-- [i_will_not_make_any_more_boring_art](https://github.com/thoughtp0lice/i_will_not_make_any_more_boring_art)
+- [`i_will_not_make_any_more_boring_art`](https://github.com/thoughtp0lice/i_will_not_make_any_more_boring_art)
   
   A python implementation of modern art work [I Will Not Make Any More Boring Art](https://www.moma.org/learn/moma_learning/john-baldessari-i-will-not-make-any-more-boring-art-1971/) by John Baldessari.
 - [Technicolor Filter](https://github.com/thoughtp0lice/technicolor_filter)
