@@ -11,7 +11,7 @@ I'm **Linghan Zhong**, an undergrad at USC studing CS and Mathematics. Currently
   
   Grace Zhang, Linghan Zhong, Youngwoon Lee, Joseph J. Lim
 
-  RSS 2021 
+  **RSS 2021**
   
   [[PDF](https://www.youtube.com/watch?v=dQw4w9WgXcQ)] [[Code](https://www.youtube.com/watch?v=dQw4w9WgXcQ)] [[Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)]
 
