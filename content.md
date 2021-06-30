@@ -13,7 +13,7 @@ I'm **Linghan Zhong**, an undergrad at USC studing CS and Mathematics. Currently
 
   **RSS 2021**
   
-  [[PDF](https://www.youtube.com/watch?v=dQw4w9WgXcQ)] [[Code](https://www.youtube.com/watch?v=dQw4w9WgXcQ)] [[Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)]
+  [[PDF](http://www.roboticsproceedings.org/rss17/p006.pdf)] [[Code](https://github.com/clvrai/idapt)] [[Website](https://clvrai.github.io/idapt/)]
 
 ## Other Projects
 
