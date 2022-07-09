@@ -3,7 +3,7 @@
 ## Biography
 
 <img src="img/mypic.jpeg" alt="mypic" width="140" align="right"/><br/>
-I'm **Linghan Zhong**, an undergrad at USC studing CS and Mathematics. Currently, I'm doing research in [CLVR](https://www.clvrai.com/)(Cognitive Learning for Vision and Robotics Lab) lab under the guidance of Professor [Joseph Lim](https://viterbi-web.usc.edu/~limjj/). My research interests includes Reinforcement Learning, Program Synthesis, and Markov Chains.
+I'm **Linghan Zhong**, an undergrad at USC studing CS and Mathematics. Currently, I'm doing research at [CLVR](https://www.clvrai.com/)(Cognitive Learning for Vision and Robotics Lab) lab under the guidance of Professor [Joseph Lim](https://viterbi-web.usc.edu/~limjj/). My research interests includes Reinforcement Learning, Program Synthesis, and Markov Chains.
 ## Publications
 
 - **Policy Transfer across Visual and Dynamics Domain Gaps via Iterative Grounding**
