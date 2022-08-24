@@ -36,6 +36,10 @@ I'm interested in program synthesis and general tasks that reqires models to rea
   
   This package try to recreate the process of technicolor filming and allows you to use different shades of cyan, magenta, and yellow to edit your own picture like the film makers in old Hollywood.
 
+## Blog
+
+- Check out my blog [here](https://thoughtp0lice.github.io/my_blog/)
+
 ## Contact
 
 email: linghanz@usc.edu
