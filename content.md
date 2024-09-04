@@ -3,11 +3,11 @@
 ## About Me
 
 <img src="img/mypic_2.jpeg" alt="mypic" width="140" align="right"/><br/>
-I'm an Ph.D. student at UT-Austin advised by Professors [Işıl Dillig](https://www.cs.utexas.edu/~isil/) and [Swarat Chaudhuri](https://www.cs.utexas.edu/~swarat/). I completed my undergrad at USC, where I worked with Professors [Joseph Lim](https://clvrai.com/web_lim/) at USC and [Shaohua Sun](https://shaohua0116.github.io/) now at National Taiwan University.
+I'm an Ph.D. student at UT-Austin advised by Professors [Milos Gligoric](https://users.ece.utexas.edu/~gligoric/) and [Jessy Li](https://jessyli.com/index). I completed my undergrad at USC, where I worked with Professors [Joseph Lim](https://clvrai.com/web_lim/) at USC and [Shaohua Sun](https://shaohua0116.github.io/) now at National Taiwan University.
 
 ## Research
 
-I'm interested in program synthesis and general tasks that reqires models to reason. 
+I'm generally interested in using LLM to help with Software Engineering problems
 
 ## Publications
 
@@ -29,7 +29,20 @@ I'm interested in program synthesis and general tasks that reqires models to rea
 
 ## Teaching
 
-- **CSCI 310 Software Engineering**
+- **CS 386C Dependable Computing Systems** @ UT-Austin
+  
+  Teaching Assistant
+
+  Fall 2024
+
+
+- **AI 395T Optimization** @ UT-Austin
+  
+  Teaching Assistant
+
+  Spring 2024
+
+- **CSCI 310 Software Engineering** @ USC
   
   Course Producer
 
