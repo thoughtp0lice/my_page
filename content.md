@@ -11,6 +11,10 @@ I'm generally interested in using LLM to help with Software Engineering problems
 
 ## Publications
 
+- **A Tool for Generating Exceptional Behavior Tests With Large Language Models**
+  **Linghan Zhong**, Samuel Yuan, Jiyang Zhang, Yu Liu, Pengyu Nie, Junyi Jessy Li, Milos Gligoric
+
+
 - **Hierarchical Neural Program Synthesis**
  
   **Linghan Zhong**, Ryan Lindeborg, Jesse Zhang, Joseph J Lim, and Shao-Hua Sun
